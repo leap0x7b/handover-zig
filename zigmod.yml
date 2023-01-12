@@ -1,0 +1,6 @@
+id: g6dns2xwvq2p5oxmg7gfdcyjefoxt67qzw4ltnysfs7s48mx
+name: handover
+main: src/main.zig
+license: MIT
+description: Zig bindings for Handover boot protocol
+dependencies:
